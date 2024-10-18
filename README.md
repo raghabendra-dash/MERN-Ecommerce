@@ -7,20 +7,20 @@
 - **MERN Stack**: Utilizes MongoDB, Express.js, React, and Node.js for building a scalable and maintainable web application.
 - **Global State Management**: Integrated **Context API** for efficient global data management, ensuring smooth and consistent state across components.
 - **Admin Panel**: Provides an easy-to-use admin interface for managing products, categories, orders, and users.
-- **Optimized UI**: Designed with **Tailwind CSS** and **Material UI** to deliver a clean, responsive, and fast user interface.
+- **Optimized UI**: Designed to deliver a clean, responsive, and fast user interface.
 - **Optimistic UI Updates**: Implemented for enhanced user satisfaction.
 - **Stripe Integration**: Secure payment gateway integration using **Stripe**, ensuring safe and encrypted transactions.
 - **Cloudinary**: Integrated with **Cloudinary** for optimized image upload and storage, ensuring fast image delivery and better user experience.
-- **Data Security**: Used **bcrypt** for securing user data with password encryption.
+
 
 ## Tech Stack
 
-- **Frontend**: React, Tailwind CSS, Material UI
+- **Frontend**: React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Payment**: Stripe
 - **Image Storage**: Cloudinary
-- **Security**: bcrypt (password encryption)
+
 
 ## Test Users
 
@@ -70,7 +70,7 @@ Make sure you have the following installed:
    VITE_API=http://localhost:8080
    VITE_STRIPE_PUBLISH_KEY=YOUR_STRIPE_PUBLISH_KEY
    VITE_STRIPE_SECRET_KEY=YOUR_STRIPE_SECRET_KEY
-   VITE_SERVER_URL=SERVER_BASE_URL_WITHOUT_TRAILING_SLASH (if you want to deploy server url- https://e-commerce-mgtd.onrender.com )
+   VITE_SERVER_URL=SERVER_BASE_URL_WITHOUT_TRAILING_SLASH (if you want to deploy server url- https://mern-ecom-backend-z8g2.onrender.com or https://e-commerce-mgtd.onrender.com )
    ```
    
    Create a `.env` file in the `/backend` directory and include the following:

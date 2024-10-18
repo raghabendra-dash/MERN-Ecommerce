@@ -8,7 +8,7 @@ const PageNotFound = () => {
                     <div className="absolute">
                         <div>
                             <h1 className="my-2 text-gray-800 font-bold text-[28px]">
-                                Looks like you've found the doorway to the great
+                                Looks like you have found the doorway to the great
                                 nothing.
                             </h1>
                             <p className="mt-2 text-[20px] mb-5 text-gray-800">

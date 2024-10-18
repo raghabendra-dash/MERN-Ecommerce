@@ -12,7 +12,7 @@ const SeoData = ({ title, description, keywords }) => (
 SeoData.defaultProps = {
   title:
     "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!",
-  description: "BuzzBuy online shopping platform by Aashish Dhiman",
+  description: "BigBuy online shopping platform by Raghabendra",
   keywords: [
     "shopping",
     "react project",

@@ -48,7 +48,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/raghabendra-dash/MERN-Ecommerce.git
    cd BigBuy
    ```
 
@@ -70,7 +70,7 @@ Make sure you have the following installed:
    VITE_API=http://localhost:8080
    VITE_STRIPE_PUBLISH_KEY=YOUR_STRIPE_PUBLISH_KEY
    VITE_STRIPE_SECRET_KEY=YOUR_STRIPE_SECRET_KEY
-   VITE_SERVER_URL=SERVER_BASE_URL_WITHOUT_TRAILING_SLASH (in case you want deployed server url- https://e-commerce-mgtd.onrender.com without any / at end)
+   VITE_SERVER_URL=SERVER_BASE_URL_WITHOUT_TRAILING_SLASH (if you want to deploy server url- https://e-commerce-mgtd.onrender.com )
    ```
    
    Create a `.env` file in the `/backend` directory and include the following:

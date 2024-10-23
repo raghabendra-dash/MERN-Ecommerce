@@ -12,7 +12,7 @@
 - **Stripe Integration**: Secure payment gateway integration using **Stripe**, ensuring safe and encrypted transactions.
 - **Cloudinary**: Integrated with **Cloudinary** for optimized image upload and storage, ensuring fast image delivery and better user experience.
 
-  [View](buzz-buy.vercel.app/)
+     >> Go Live: [LIVE VIEW](buzz-buy.vercel.app/)
 
 
 ## Tech Stack

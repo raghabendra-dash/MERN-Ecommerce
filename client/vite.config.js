@@ -9,7 +9,7 @@ export default defineConfig({
          proxy: {
              // Proxy /api requests to your backend server
              "/api": {
-                  target: "https://mern-ecom-backend-z8g2.onrender.com", // Replace with your backend server URL
+                  target: "https://mern-ecommerce-backend-m17b.onrender.com", // Replace with your backend server URL
                    changeOrigin: true,
                    secure: false,
                    configure: (proxy, _options) => {
